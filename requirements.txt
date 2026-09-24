@@ -3,4 +3,4 @@ torch-geometric
 pandas
 numpy
 fastapi
-uvicorn
+uvicorn[standard]
