@@ -2,3 +2,5 @@ torch
 torch-geometric
 pandas
 numpy
+fastapi
+uvicorn
